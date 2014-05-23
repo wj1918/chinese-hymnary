@@ -1,0 +1,188 @@
+!NoteWorthyComposer(2.5)
+|Locale|ACP:1252
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"How Sweet the Hour of Praise and Prayer"|Author:"Frances Jane (Fanny) Crosby (1820-1915)"|Lyricist:""|Copyright1:"Traditional Scottish tune (Auld Lang Syne)"|Copyright2:"Public Domain, Courtesy of the Cyber Hymnal (http://www.cyberhymnal.org)"
+|PgSetup|StaffSize:18|Zoom:3|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:N|PageNumbers:1|StaffLabels:None|BarNumbers:None|StartingBar:1|AllowLayering:N
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:24|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:10|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:2.54|Top:2.54|Right:2.54|Bottom:2.54|Mirror:N
+|AddStaff|Name:"Unnamed-000"|Label:"Unnamed-000"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:15|BoundaryBottom:30|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Patch:0|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:0
+|Lyric1|Text:"1._How sweet the hour of praise and prayer,\r\nWhen our de-vo-tions blend,\r\nAnd on the wings of faith di-vine\r\nOur songs of joy a-scend!\r\n’Tis then we hear in tones more clear\r\nThe gra-cious prom-ise giv’n,\r\nThat, though we part from friends on earth,\r\nWe all shall meet in heav’n.\r\n"
+|Lyric2|Text:"2._How sweet the tie of hal-lowed love\r\nThat binds our hearts in one;\r\nWhen ga-thered in the bless-èd Name\r\nOf Christ, the Fa-ther’s Son!\r\nAnd though the part-ing soon may come,\r\nYet in His Word is giv’n\r\nThe bless-èd hope that by and by\r\nWe all shall meet in heav’n.\r\n"
+|Lyric3|Text:"3._Yes, soon our worn and wear-y feet\r\nWill reach the gold-en strand,\r\nWhere those we love our com-ing wait\r\nIn yon-der sum-mer-land;\r\nA few more days, a few more years,\r\nBy storm and tem-pest driv’n,\r\nWith songs and ev-er-last-ing joy\r\nWe all shall meet in heav’n.\r\n"
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|Tempo|Tempo:110|Pos:11|Justify:Right|Placement:AsStaffSignature
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:-6|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-6,-3
+|Chord|Dur:8th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-6,-3
+|Chord|Dur:4th|Pos:-3,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th,Dotted|Pos2:-3
+|Chord|Dur:8th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:8th|Pos2:-3
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3|Opts:Stem=Up,ArticulationsOnStem|Dur2:4th|Pos2:-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-6,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-3
+|Flow|Style:Segno|Pos:11|Placement:AsStaffSignature
+|Chord|Dur:4th|Pos:-3,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Note|Dur:4th|Pos:-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,2
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-3,2
+|Chord|Dur:4th|Pos:-3,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-3,1
+|Chord|Dur:8th|Pos:-3,-1
+|Chord|Dur:4th|Pos:-3,-1
+|Note|Dur:4th|Pos:-3
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-4,-2
+|Chord|Dur:8th|Pos:-5,-3
+|Chord|Dur:4th|Pos:-4,-2
+|Chord|Dur:4th|Pos:-4,-1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-5,-3
+|Chord|Dur:8th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-5
+|Chord|Dur:4th|Pos:-7,-6
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-8,-3
+|Flow|Style:DSalFine|Pos:11|Justify:Right|Placement:AsStaffSignature
+|AddStaff|Name:"Auld Lang Syne"|Label:"Auld Lang Syne"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:12|BoundaryBottom:12|Lines:5|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:2
+|StaffInstrument|Patch:91|Trans:0|DynVel:10,30,45,60,75,92,108,127
+|Lyrics|Placement:Bottom|Align:Start of Accidental/Note|Offset:-4
+|Lyric1|Text:"_ _ _ _ _ _ _ _ _ _ _ _ _ _\r\n_ _ _ _ _ _ _ _ _ _ _ _ _ _\r\nWe all shall meet in Heav’n at last,\r\nWe all shall meet in Heav’n;\r\nThrough faith in Je-sus’ pre-cious blood,\r\nWe all shall meet in Heav’n.\r\n"
+|Clef|Type:Bass
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:4/4
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,4
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2
+|Flow|Style:Segno|Pos:11|Placement:AsStaffSignature
+|Chord|Dur:4th|Pos:2,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-2,5
+|Chord|Dur:4th|Pos:0,5
+|Bar
+|Chord|Dur:4th,Dotted|Pos:2,4
+|Chord|Dur:8th|Pos:2,6
+|Chord|Dur:4th|Pos:2,6
+|Chord|Dur:4th|Pos:2,4
+|Bar
+|Chord|Dur:4th,Dotted|Pos:-1,6
+|Chord|Dur:8th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,6
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:4th,Dotted|Pos:0,2
+|Chord|Dur:8th|Pos:-2,2
+|Chord|Dur:4th|Pos:-2,2
+|Chord|Dur:4th|Pos:-1,1
+|Bar
+|Chord|Dur:Half,Dotted|Pos:-5,2
+|Flow|Style:DSalFine|Pos:11|Justify:Right|Placement:AsStaffSignature
+!NoteWorthyComposer-End

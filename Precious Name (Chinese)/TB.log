@@ -1,0 +1,18 @@
+# -*-compilation-*-
+Processing `Z:/public_html/nwctext2ly/Precious Name (Chinese)/TB.ly'
+Parsing...
+Z:/public_html/nwctext2ly/Precious Name (Chinese)/TB.ly:10:1: error: unknown escaped string: `\accidentalStyle'
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/Precious Name (Chinese)/TB.ly:10:1: error: syntax error, unexpected STRING
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/Precious Name (Chinese)/TB.ly:6:0: error: errors found, ignoring music expression
+
+{
+Z:/public_html/nwctext2ly/Precious Name (Chinese)/TB.ly:0: warning: no \version statement found, please add
+
+\version "2.13.54"
+
+for future compatibility
+error: failed files: "Z:\\public_html\\nwctext2ly\\Precious Name (Chinese)\\TB.ly"

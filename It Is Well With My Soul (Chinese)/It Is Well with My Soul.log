@@ -1,0 +1,32 @@
+# -*-compilation-*-
+Processing `Z:/public_html/nwctext2ly/It Is Well With My Soul/It Is Well with My Soul.ly'
+Parsing...
+error: program too old: 2.13.54 (file requires: 2.15.26)
+Z:/public_html/nwctext2ly/It Is Well With My Soul/S.ly:10:1: error: unknown escaped string: `\accidentalStyle'
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/It Is Well With My Soul/S.ly:10:1: error: syntax error, unexpected STRING
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/It Is Well With My Soul/A.ly:10:1: error: unknown escaped string: `\accidentalStyle'
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/It Is Well With My Soul/A.ly:10:1: error: syntax error, unexpected STRING
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/It Is Well With My Soul/T.ly:10:1: error: unknown escaped string: `\accidentalStyle'
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/It Is Well With My Soul/T.ly:10:1: error: syntax error, unexpected STRING
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/It Is Well With My Soul/B.ly:10:1: error: unknown escaped string: `\accidentalStyle'
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/It Is Well With My Soul/B.ly:10:1: error: syntax error, unexpected STRING
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/It Is Well With My Soul/It Is Well with My Soul.ly:22:0: error: errors found, ignoring music expression
+
+\new Score \with {
+error: failed files: "Z:\\public_html\\nwctext2ly\\It Is Well With My Soul\\It Is Well with My Soul.ly"

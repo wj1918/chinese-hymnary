@@ -1,0 +1,35 @@
+# -*-compilation-*-
+Processing `Z:/public_html/nwctext2ly/Ive Believed the True Report/Ive Believed the True Report.ly'
+Parsing...
+error: program too old: 2.13.54 (file requires: 2.15.26)
+Z:/public_html/nwctext2ly/Ive Believed the True Report/Staff1.ly:10:1: error: unknown escaped string: `\accidentalStyle'
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/Ive Believed the True Report/Staff1.ly:10:1: error: syntax error, unexpected STRING
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/Ive Believed the True Report/Staff1Alyrics.ly:2:44: error: syntax error, unexpected '}'
+ "1. \markup{ \concat{  I\char ##x0092 ve"} 
+                                            }  be -- lieved the true re -- port, 
+Z:/public_html/nwctext2ly/Ive Believed the True Report/Staff1Alyrics.ly:10:2: error: syntax error, unexpected '}'
+  
+  }Z:/public_html/nwctext2ly/Ive Believed the True Report/Staff1Blyrics.ly:2:43: error: syntax error, unexpected '}'
+ "2. \markup{ \concat{  I\char ##x0092 m"} 
+                                           }  a king and priest to God, 
+Z:/public_html/nwctext2ly/Ive Believed the True Report/Staff1Blyrics.ly:16:2: error: syntax error, unexpected '}'
+  
+  }Z:/public_html/nwctext2ly/Ive Believed the True Report/Staff1Dlyrics.ly:2:43: error: syntax error, unexpected '}'
+ "4. \markup{ \concat{  I\char ##x0092 m"} 
+                                           }  with -- in the ho -- liest pale, 
+Z:/public_html/nwctext2ly/Ive Believed the True Report/Staff1Dlyrics.ly:10:2: error: syntax error, unexpected '}'
+  
+  }Z:/public_html/nwctext2ly/Ive Believed the True Report/I'veBelievedtheReport.ly:10:1: error: unknown escaped string: `\accidentalStyle'
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/Ive Believed the True Report/I'veBelievedtheReport.ly:10:1: error: syntax error, unexpected STRING
+ 
+ \accidentalStyle "modern-voice-cautionary"
+Z:/public_html/nwctext2ly/Ive Believed the True Report/Ive Believed the True Report.ly:22:0: error: errors found, ignoring music expression
+
+\new Score \with {
+error: failed files: "Z:\\public_html\\nwctext2ly\\Ive Believed the True Report\\Ive Believed the True Report.ly"

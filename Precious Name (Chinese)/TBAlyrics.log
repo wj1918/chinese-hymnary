@@ -1,0 +1,18 @@
+# -*-compilation-*-
+Processing `Z:/public_html/nwctext2ly/Precious Name (Chinese)/TBAlyrics.ly'
+Parsing...
+Z:/public_html/nwctext2ly/Precious Name (Chinese)/TBAlyrics.ly:6:1: error: syntax error, unexpected \markup
+ 
+ \markup {\small 寶 } 
+Z:/public_html/nwctext2ly/Precious Name (Chinese)/TBAlyrics.ly:13:1: error: syntax error, unexpected \markup
+ 
+ \markup {\small 寶 } 
+Z:/public_html/nwctext2ly/Precious Name (Chinese)/TBAlyrics.ly:1:0: error: errors found, ignoring music expression
+
+{
+Z:/public_html/nwctext2ly/Precious Name (Chinese)/TBAlyrics.ly:0: warning: no \version statement found, please add
+
+\version "2.13.54"
+
+for future compatibility
+error: failed files: "Z:\\public_html\\nwctext2ly\\Precious Name (Chinese)\\TBAlyrics.ly"
